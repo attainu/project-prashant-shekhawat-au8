@@ -1,0 +1,15 @@
+1 6
+2 KA-01-HH-1234 White
+2 KA-01-HH-9999 White
+2 KA-01-BB-0001 Black
+2 KA-01-HH-7777 Red
+2 KA-01-HH-2701 Blue
+2 KA-01-HH-3141 Black
+3 4
+4
+2 KA-01-P-333 White
+2 DL-12-AA-9999 White
+5 White
+7 White
+6 KA-01-HH-3141
+6 MH-04-AY-1111
